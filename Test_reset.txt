@@ -1,1 +1,1 @@
-Test reset of file
+Test reset of file remote
