@@ -11,7 +11,7 @@ import com.example.demo.models.PersonSummary;
 
 @RestController
 @RequestMapping("/person")
-public class PersonResource {
+public class PersonResourceNew {
 
 	public PersonResource() {
 		// TODO Auto-generated constructor stub
